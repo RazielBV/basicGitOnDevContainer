@@ -232,3 +232,4 @@ Antes de entregar, verifica todo lo siguiente:
 - [x] Existe una rama integrada mediante `merge`.
 - [x] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
 - [x] El README conserva todas las casillas marcadas como evidencia de la práctica.
+- [x] Hice un pequeño cambio para el commit.Después, hice otro cambio.
